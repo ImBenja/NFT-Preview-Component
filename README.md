@@ -82,7 +82,7 @@ El componente funciona de la siguiente manera:
 
 ## 🔗 Demo en vivo
 
-Puedes ver una demostración en vivo del proyecto **<a href="https://challengebentogrid.netlify.app/">Aqui</a>**
+Puedes ver una demostración en vivo del proyecto **<a href="https://nftcomponentcard.netlify.app/">Aqui</a>**
 
 <table border="1">
   <tr>
