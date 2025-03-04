@@ -47,7 +47,7 @@ Los usuarios deben poder:
 ### Links
 
 - Solution URL: [**Solucion**](https://github.com/ImBenja/NFT-Preview-Component)
-- Live Site URL: [**Sitio en Vivo**](https://challengebentogrid.netlify.app/)
+- Live Site URL: [**Sitio en Vivo**](https://nftcomponentcard.netlify.app/)
 
 ## 🛠️ Mi proceso
 
